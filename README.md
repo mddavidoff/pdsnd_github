@@ -6,8 +6,8 @@ Include the date you created this project and README file.
 ### Udacity Git Course
 Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### Description 
+This project is testing pushing to remote git repository and cloning and editing.
 
 ### Files used
 Include the files used. could not download csv files at business computer. did all python in workspace.
