@@ -3,7 +3,7 @@
 ### February 4 2025
 More updates on February 6. Include the date you created this project and README file.
 
-### Udacity Git Course
+### Udacity Git Course - Push to Remote Repository
 Replace the Project Title
 
 ### Description 
